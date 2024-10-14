@@ -24,17 +24,17 @@ h1 {
 }
 
 ul {
-    border-style: dotted;
-    border-color: white;
-    border-width: 6px;
+    border-top: 6px solid white;
+    border-right: 6px solid white;
     display: inline-block;
     text-align: left;
+    padding: 6px;
 }
 
 ol {
-    border-style: dotted;
-    border-color: white;
-    border-width: 6px;
+    border-top: 6px solid white;
+    border-right: 6px solid white;
     display: inline-block;
     text-align: left;
+    padding: 6px;
 }

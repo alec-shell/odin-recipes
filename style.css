@@ -2,29 +2,34 @@
 
 body {
     background-color: antiquewhite;
+    text-align: center;
 } 
 
 .main-title {
     color: black;
     font-size: 36px;
     font-weight: bold;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+    font-family: 'Lucida Sans';
+    padding: 10px;
+    border-bottom: 5px solid black;
 
-.image {
-    text-align: center;
 }
 
 .uldiv {
-    text-align: center;
+    margin-top: 30px;
+    display: inline-block;
+    border-top: 6px solid white;
+    border-right: 6px solid white;
+    padding-right: 30px;
 }
 
 .recipe-links {
     color: black;
-    display: inline-block;
+    display: block;
     text-align: left;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans';
+    padding: 5px;
+    margin-bottom: 20px;
 }
